@@ -21,13 +21,13 @@ The goal of this analysis is to:
 4.Generate actionable recommendations based on findings.
 
 
-## 📁 Dataset Description
+## 📁 Dataset Description:
 Source: appleAppData.csv
 
 ## 🛠️ Tools & Technologies Used :
    ![image](desktop-wallpaper-6-python-programming-python-language.jpg)
 
-## 🔍 Insights
+## 🔍 Insights:
 ✅Free vs Paid Apps:
 
 1.Most apps in the dataset are free.
